@@ -11,3 +11,6 @@ screenshots
 
 <img width="1897" height="738" alt="image" src="https://github.com/user-attachments/assets/2890ad44-c132-480e-a10b-4e035cd26b16" />
 
+<img width="1907" height="741" alt="image" src="https://github.com/user-attachments/assets/c7a633e1-756c-47e6-8401-8fde3e505ebb" />
+
+
